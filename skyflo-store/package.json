@@ -21,6 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "tailwind:init": "tailwindcss init -p"
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
